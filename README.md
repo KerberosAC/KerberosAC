@@ -1,34 +1,38 @@
 
-<div align="center">
-
 # Alexander Cox
 
-**Cybersecurity & Digital Forensics | Security Operations | Network Defense**
+**Cybersecurity Graduate | Security Operations | Network Security**
 
-*Vulnerability Assessment • Incident Response • Network Security*
+First Class Honours in Cyber Security & Digital Forensics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Cox-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
 [![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-005A9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
-
-</div>
 
 ---
 
 ## About Me
 
-Cybersecurity and Digital Forensics student at **Caribbean Maritime University**, with Risk Assurance internship experience at **PwC Jamaica**.
+First Class Honours graduate in **Cyber Security and Digital Forensics** from **Caribbean Maritime University**, with professional experience in Risk Assurance at **PwC Jamaica**.
 
-I focus on security operations, vulnerability assessment, network defense, and incident investigation. My portfolio documents practical cybersecurity labs, technical assessments, and security engineering projects.
+CompTIA Security+ and ISC2 Certified in Cybersecurity (CC) certified, with hands-on experience in vulnerability assessment, network defense, security monitoring, and incident investigation.
 
-**Interests:** SOC Analysis · DFIR · Threat Detection · Vulnerability Management
+My portfolio showcases practical cybersecurity skills through technical labs, security assessments, and infrastructure projects.
 
-**Certification**
+**Focus Areas:** Security Operations · Network Security · Vulnerability Management · Digital Forensics & Incident Response
 
-<a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc">
-  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A88F?style=for-the-badge&logoColor=white" alt="ISC2 Certified in Cybersecurity" />
-</a>
+### Certifications
 
-**Professional Experience:** Risk Assurance Intern — PwC Jamaica
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/en-us/certifications/security/)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A88F?style=for-the-badge&logoColor=white)](https://www.isc2.org/certifications/cc)
+
+### Education
+
+**Bachelor of Science (BSc) — Cyber Security and Digital Forensics**  
+Caribbean Maritime University · **First Class Honours**
+
+### Professional Experience
+
+**Risk Assurance Intern — PwC Jamaica**
 
 ---
 
@@ -81,7 +85,7 @@ I focus on security operations, vulnerability assessment, network defense, and i
 
 ## Featured Projects
 
-Selected cybersecurity labs covering vulnerability assessment, network defense, incident investigation, and infrastructure security.
+Selected cybersecurity projects covering vulnerability assessment, network defense, incident investigation, and infrastructure security.
 
 <table>
 <tr>
@@ -94,7 +98,7 @@ Selected cybersecurity labs covering vulnerability assessment, network defense, 
 
 **[Nessus Vulnerability Assessment](PROJECT_LINK_HERE)**
 
-Authenticated and unauthenticated vulnerability scanning, CVSS analysis, and remediation prioritization.
+Authenticated and unauthenticated scanning, vulnerability analysis, and remediation prioritization.
 
 </td>
 <td width="33%" valign="top">
@@ -118,7 +122,7 @@ Firewall configuration, Suricata intrusion detection, and Squid proxy integratio
 
 **[SIEM Incident Investigation](PROJECT_LINK_HERE)**
 
-Windows and Linux log correlation, suspicious authentication analysis, and incident reconstruction.
+Windows and Linux log correlation, authentication analysis, and incident reconstruction.
 
 </td>
 </tr>
@@ -284,12 +288,8 @@ Technical documentation, screenshots, lab configurations, and project findings.
 
 ## Connect
 
-<div align="center">
-
 Open to cybersecurity opportunities, professional networking, and technical collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Cox-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-005A9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
-
-</div>
