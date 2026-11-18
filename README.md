@@ -6,11 +6,8 @@
 First Class Honours in Cyber Security & Digital Forensics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Cox-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
-[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-005A9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
 
 ---
-
-## About Me
 
 ### 👋 About Me
 
@@ -24,7 +21,7 @@ Currently, I am focused on defensive security operations (SOC), network administ
 
 Certifications:
 
-CompTIA Security+ (SY0-701)
+CompTIA Security+ (SY0-701),
 ISC2 Certified in Cybersecurity (CC)
 
 ### Education
@@ -285,10 +282,14 @@ Technical documentation, screenshots, lab configurations, and project findings.
 
 ---
 
-## Connect
 
-Open to cybersecurity opportunities, professional networking, and technical collaboration.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Cox-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
+<h3>Connect</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-005A9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
+<sub>Open to cybersecurity opportunities, professional networking, and technical collaboration.</sub>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Cox-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
+[![Email](https://img.shields.io/badge/Email-alexander17.cox%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexander17.cox@gmail.com)
