@@ -12,13 +12,13 @@ First Class Honours in Cyber Security & Digital Forensics
 
 ## About Me
 
-First Class Honours graduate in **Cyber Security and Digital Forensics** from **Caribbean Maritime University**, with professional experience in Risk Assurance at **PwC Jamaica**.
+### 👋 About Me
 
-CompTIA Security+ and ISC2 Certified in Cybersecurity (CC) certified, with hands-on experience in vulnerability assessment, network defense, security monitoring, and incident investigation.
+Hi, I'm Alexander, a cybersecurity professional and **B.Sc. Cyber Security & Digital Forensics (First Class Honors)** graduate focused on network defense, threat detection, and enterprise infrastructure security. 
 
-My portfolio showcases practical cybersecurity skills through technical labs, security assessments, and infrastructure projects.
+I specialize in translating security theory into practical, hands-on defense. My background spans configuring perimeter firewalls, deploying and tuning intrusion detection systems, managing Active Directory environments, and performing deep packet and traffic analysis. Whether I am isolating virtual networks to simulate enterprise topologies or writing custom detection rules to catch anomalous traffic, I am driven by building resilient systems and proactively securing critical infrastructure.
 
-**Focus Areas:** Security Operations · Network Security · Vulnerability Management · Digital Forensics & Incident Response
+Currently, I am focused on defensive security operations (SOC), network administration, and continuous lab engineering, documenting my technical builds and security workflows right here.
 
 ### Certifications
 
@@ -76,10 +76,7 @@ Caribbean Maritime University · **First Class Honours**
 [![Action1](https://img.shields.io/badge/ACTION1-0066CC?style=for-the-badge&logoColor=white)](https://www.action1.com/)
 
 ### Security Frameworks
-
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-D00036?style=for-the-badge&logoColor=white)](https://attack.mitre.org/)
 [![NIST](https://img.shields.io/badge/NIST-005EA2?style=for-the-badge&logoColor=white)](https://www.nist.gov/cyberframework)
-[![CIS Controls](https://img.shields.io/badge/CIS_CONTROLS-008C95?style=for-the-badge&logoColor=white)](https://www.cisecurity.org/controls)
 
 ---
 
