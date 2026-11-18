@@ -3,36 +3,37 @@
 
 # Alexander Cox
 
-### Cybersecurity | Security Operations | Network Defense
+**Cybersecurity & Digital Forensics | Security Operations | Network Defense**
 
-**Vulnerability Assessment • Penetration Testing • Incident Investigation • Security Engineering**
+*Vulnerability Assessment • Incident Response • Network Security*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
-[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-003B73?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
+[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-005A9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
 
 </div>
 
 ---
 
-## Professional Profile
+## About Me
 
-Cybersecurity and Digital Forensics student at **Caribbean Maritime University**, with practical experience in security assessment, network defense, vulnerability management, and incident investigation through hands-on laboratories and technical projects.
+Cybersecurity and Digital Forensics student at **Caribbean Maritime University**, with Risk Assurance internship experience at **PwC Jamaica**.
 
-My work focuses on building secure environments, identifying system vulnerabilities, analyzing network traffic, investigating security events, and documenting actionable security recommendations.
+I focus on security operations, vulnerability assessment, network defense, and incident investigation. My portfolio documents practical cybersecurity labs, technical assessments, and security engineering projects.
 
-I have developed technical experience with firewall administration, intrusion detection systems, penetration testing tools, vulnerability scanners, SIEM platforms, Windows Server, and Linux environments.
+**Interests:** SOC Analysis · DFIR · Threat Detection · Vulnerability Management
 
-**Areas of Interest:** Security Operations (SOC), Digital Forensics & Incident Response (DFIR), Network Security, Vulnerability Management, and Threat Detection.
+**Certification**
 
-**Certification:** ISC2 Certified in Cybersecurity (CC)
+<a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc">
+  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A88F?style=for-the-badge&logoColor=white" alt="ISC2 Certified in Cybersecurity" />
+</a>
 
-**Professional Experience:** Risk Assurance Internship — PwC Jamaica
-
-> This portfolio contains academic projects, collaborative exercises, and independent cybersecurity labs. Project documentation distinguishes demonstrated findings from proposed security improvements.
+**Professional Experience:** Risk Assurance Intern — PwC Jamaica
 
 ---
 
-## Technical Skills & Tools
+## Core Stack
+
 ### SIEM & Detection
 
 [![Wazuh](https://img.shields.io/badge/WAZUH-0066A1?style=for-the-badge&logoColor=white)](https://wazuh.com/)
@@ -58,7 +59,7 @@ I have developed technical experience with firewall administration, intrusion de
 
 [![OPNsense](https://img.shields.io/badge/OPNSENSE-E95420?style=for-the-badge&logoColor=white)](https://opnsense.org/)
 [![pfSense](https://img.shields.io/badge/PFSENSE-003B73?style=for-the-badge&logoColor=white)](https://www.pfsense.org/)
-[![Squid Proxy](https://img.shields.io/badge/SQUID_PROXY-0077B6?style=for-the-badge&logoColor=white)](https://www.squid-cache.org/)
+[![Squid](https://img.shields.io/badge/SQUID_PROXY-0077B6?style=for-the-badge&logoColor=white)](https://www.squid-cache.org/)
 
 ### Infrastructure & Virtualization
 
@@ -78,89 +79,206 @@ I have developed technical experience with firewall administration, intrusion de
 
 ---
 
-## Featured Cybersecurity Projects
+## Featured Projects
 
-Selected technical projects covering vulnerability assessment, network security, penetration testing, security operations, and infrastructure administration.
+Selected cybersecurity labs covering vulnerability assessment, network defense, incident investigation, and infrastructure security.
 
-Each project will include its methodology, environment, technical evidence, findings, and lessons learned.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 01 — Vulnerability Assessment & Penetration Testing
+<img src="https://img.shields.io/badge/NESSUS-0077B6?style=flat-square" />
+<img src="https://img.shields.io/badge/VULNERABILITY_ASSESSMENT-00A5B5?style=flat-square" />
 
-| Project | Technical Focus | Repository |
-|:--------|:----------------|:-----------|
-| **Nessus Vulnerability Assessment** | Authenticated vs. unauthenticated scanning, CVSS analysis, vulnerability prioritization, remediation | [View Project](PROJECT_LINK_HERE) |
-| **Linux Penetration Testing** | Nmap reconnaissance, vulnerable service exploitation, controlled penetration testing | [View Project](PROJECT_LINK_HERE) |
-| **Network Traffic & Credential Analysis** | Wireshark packet analysis, Telnet traffic inspection, clear-text credential exposure | [View Project](PROJECT_LINK_HERE) |
-| **Nmap Network Reconnaissance** | Host discovery, TCP port scanning, service/version detection, OS fingerprinting | [View Project](PROJECT_LINK_HERE) |
-| **Windows Service Enumeration** | PowerShell, Netstat, PID mapping, service analysis, CVE research | [View Project](PROJECT_LINK_HERE) |
+<br/><br/>
 
-### 02 — Network Security & Defense
+**[Nessus Vulnerability Assessment](PROJECT_LINK_HERE)**
 
-| Project | Technical Focus | Repository |
-|:--------|:----------------|:-----------|
-| **OPNsense Firewall & IDS/IPS Deployment** | Firewall configuration, Suricata detection, Squid proxy, network traffic control | [View Project](PROJECT_LINK_HERE) |
-| **Snort Network Intrusion Detection** | IDS configuration, rule management, traffic monitoring, alert analysis | [View Project](PROJECT_LINK_HERE) |
-| **pfSense Firewall Security Lab** | Firewall deployment, rule configuration, network segmentation concepts | [View Project](PROJECT_LINK_HERE) |
+Authenticated and unauthenticated vulnerability scanning, CVSS analysis, and remediation prioritization.
 
-### 03 — Security Operations & Incident Investigation
+</td>
+<td width="33%" valign="top">
 
-| Project | Technical Focus | Repository |
-|:--------|:----------------|:-----------|
-| **SIEM Incident Investigation** | Windows/Linux log analysis, authentication attacks, persistence, incident timeline reconstruction | [View Project](PROJECT_LINK_HERE) |
-| **Wazuh Security Monitoring Lab** | SIEM deployment, endpoint telemetry, security event monitoring | [View Project](PROJECT_LINK_HERE) |
-| **Endpoint Patch Management** | Endpoint administration, software updates, patch management workflows | [View Project](PROJECT_LINK_HERE) |
+<img src="https://img.shields.io/badge/OPNSENSE-E95420?style=flat-square" />
+<img src="https://img.shields.io/badge/NETWORK_DEFENSE-0078D4?style=flat-square" />
 
-### 04 — Infrastructure & Systems Administration
+<br/><br/>
 
-| Project | Technical Focus | Repository |
-|:--------|:----------------|:-----------|
-| **Cybersecurity Virtual Lab Infrastructure** | VirtualBox, Vagrant, Kali Linux, vulnerable machines, virtual networking | [View Project](PROJECT_LINK_HERE) |
-| **Windows Server & Active Directory** | Domain controller deployment, DNS, users, groups, domain administration | [View Project](PROJECT_LINK_HERE) |
-| **macOS Ventura Virtualization** | VirtualBox deployment, virtual hardware configuration, macOS installation | [View Project](PROJECT_LINK_HERE) |
+**[OPNsense Firewall & IDS/IPS](PROJECT_LINK_HERE)**
 
----
+Firewall configuration, Suricata intrusion detection, and Squid proxy integration.
 
-## Selected Technical Findings
+</td>
+<td width="33%" valign="top">
 
-The following findings are drawn from documented laboratory assessments.
+<img src="https://img.shields.io/badge/SIEM-0066A1?style=flat-square" />
+<img src="https://img.shields.io/badge/INCIDENT_INVESTIGATION-00A88F?style=flat-square" />
 
-| Assessment | Evidence / Result |
-|:-----------|:------------------|
-| **Nessus — Unauthenticated Scan** | 20 findings displayed against a deliberately vulnerable Linux target |
-| **Nessus — Credentialed Scan** | 54 findings displayed following SSH credential configuration |
-| **Samba Vulnerability Assessment** | Identified Samba Badlock, rated High (CVSS 7.5) |
-| **NFS Security Assessment** | Identified world-readable NFS shares, rated High (CVSS 7.5) |
-| **DNS Security Assessment** | Identified ISC BIND service downgrade/reflected DoS finding, rated High (CVSS 8.6) |
-| **Penetration Testing Lab** | Documented exploitation of vulnerable FTP, Samba, and distcc services |
-| **SIEM Investigation Exercise** | Analyzed suspicious Windows authentication events and Linux SSH activity |
+<br/><br/>
 
-> Findings are from controlled labs and deliberately vulnerable systems. They are not production security assessments.
+**[SIEM Incident Investigation](PROJECT_LINK_HERE)**
 
----
+Windows and Linux log correlation, suspicious authentication analysis, and incident reconstruction.
 
-## Certifications & Professional Development
+</td>
+</tr>
 
-| Certification | Status |
-|:--------------|:-------|
-| **ISC2 Certified in Cybersecurity (CC)** | Achieved |
-| **CompTIA Security+** | Learning objective |
+<tr>
+<td valign="top">
 
-### Current Focus
+<img src="https://img.shields.io/badge/KALI_LINUX-367BF0?style=flat-square" />
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-F26727?style=flat-square" />
 
-- Security Operations and SOC investigation workflows
-- Network traffic analysis and threat detection
-- Vulnerability identification and remediation
-- Digital forensics and incident response
-- Linux and Windows security administration
-- Security monitoring and detection engineering fundamentals
+<br/><br/>
 
----
+**[Linux Penetration Testing](PROJECT_LINK_HERE)**
 
-## Career Objective
+Nmap reconnaissance, service enumeration, and controlled exploitation of vulnerable systems.
 
-To apply my cybersecurity education, technical laboratory experience, and risk assurance background in a security-focused role where I can contribute to vulnerability management, security monitoring, incident investigation, and infrastructure protection.
+</td>
+<td valign="top">
 
-I am particularly interested in opportunities involving **Security Operations, Cybersecurity Analysis, Network Security, and Digital Forensics & Incident Response**.
+<img src="https://img.shields.io/badge/WIRESHARK-087DAF?style=flat-square" />
+<img src="https://img.shields.io/badge/TRAFFIC_ANALYSIS-0078D4?style=flat-square" />
+
+<br/><br/>
+
+**[Network Traffic Analysis](PROJECT_LINK_HERE)**
+
+Packet inspection, protocol analysis, and investigation of clear-text credentials.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/WAZUH-0066A1?style=flat-square" />
+<img src="https://img.shields.io/badge/SECURITY_MONITORING-00A88F?style=flat-square" />
+
+<br/><br/>
+
+**[Wazuh Security Monitoring](PROJECT_LINK_HERE)**
+
+Endpoint visibility, centralized security monitoring, and event analysis.
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/VIRTUALBOX-1769AA?style=flat-square" />
+<img src="https://img.shields.io/badge/LAB_INFRASTRUCTURE-0077B6?style=flat-square" />
+
+<br/><br/>
+
+**[Cybersecurity Virtual Lab](PROJECT_LINK_HERE)**
+
+Virtual machine deployment, network configuration, and isolated testing environments.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/WINDOWS_SERVER-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-00A5B5?style=flat-square" />
+
+<br/><br/>
+
+**[Windows Server & Active Directory](PROJECT_LINK_HERE)**
+
+Domain controller deployment, DNS configuration, and identity administration.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/SNORT-EA3323?style=flat-square" />
+<img src="https://img.shields.io/badge/INTRUSION_DETECTION-0078D4?style=flat-square" />
+
+<br/><br/>
+
+**[Snort Intrusion Detection](PROJECT_LINK_HERE)**
+
+Network intrusion detection, rule configuration, and security alert analysis.
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/PFSENSE-003B73?style=flat-square" />
+<img src="https://img.shields.io/badge/FIREWALL_SECURITY-0077B6?style=flat-square" />
+
+<br/><br/>
+
+**[pfSense Firewall Lab](PROJECT_LINK_HERE)**
+
+Firewall configuration, traffic filtering, and network access controls.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/NMAP-327FB5?style=flat-square" />
+<img src="https://img.shields.io/badge/RECONNAISSANCE-00A88F?style=flat-square" />
+
+<br/><br/>
+
+**[Nmap Network Reconnaissance](PROJECT_LINK_HERE)**
+
+Host discovery, port scanning, service detection, and network enumeration.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/POWERSHELL-478BF5?style=flat-square" />
+<img src="https://img.shields.io/badge/SYSTEM_ENUMERATION-0077B6?style=flat-square" />
+
+<br/><br/>
+
+**[Windows Service Enumeration](PROJECT_LINK_HERE)**
+
+Listening port analysis, process identification, and Windows service investigation.
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/ACTION1-0066CC?style=flat-square" />
+<img src="https://img.shields.io/badge/PATCH_MANAGEMENT-00A88F?style=flat-square" />
+
+<br/><br/>
+
+**[Endpoint Patch Management](PROJECT_LINK_HERE)**
+
+Endpoint administration, patching workflows, and software update management.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/MACOS-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/VIRTUALIZATION-1769AA?style=flat-square" />
+
+<br/><br/>
+
+**[macOS Ventura Virtualization](PROJECT_LINK_HERE)**
+
+Virtual machine configuration and macOS deployment in a controlled environment.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/GITHUB-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/PROJECT_PORTFOLIO-00A88F?style=flat-square" />
+
+<br/><br/>
+
+**[Explore All Repositories](https://github.com/KerberosAC?tab=repositories)**
+
+Technical documentation, screenshots, lab configurations, and project findings.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -168,10 +286,10 @@ I am particularly interested in opportunities involving **Security Operations, C
 
 <div align="center">
 
-**Open to professional networking, cybersecurity collaboration, and technical knowledge sharing.**
+Open to cybersecurity opportunities, professional networking, and technical collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Cox-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-003B73?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
+[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-005A9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
 
 </div>
