@@ -1,255 +1,177 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:075985,100:00c9a7&height=220&section=header&text=Alexander%20Cox&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Defense%20%7C%20Ethical%20Hacking&descAlignY=61&descSize=18" width="100%" />
+# Alexander Cox
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=19D3B2&center=true&vCenter=true&width=760&lines=Building+and+securing+virtual+networks;Vulnerability+Assessment+%7C+Penetration+Testing;SOC+Analysis+%7C+Network+Traffic+Investigation;Learning+by+doing+one+lab+at+a+time" />
+### Cybersecurity | Security Operations | Network Defense
+
+**Vulnerability Assessment • Penetration Testing • Incident Investigation • Security Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
-[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
+[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-003B73?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Profile
 
-I'm **Alexander Cox**, a cybersecurity enthusiast developing practical experience in network security, vulnerability assessment, penetration testing, security monitoring, and incident investigation.
+Cybersecurity and Digital Forensics student at **Caribbean Maritime University**, with practical experience in security assessment, network defense, vulnerability management, and incident investigation through hands-on laboratories and technical projects.
 
-I build and document hands-on cybersecurity labs to understand how systems operate, how vulnerabilities are discovered, and how security teams detect and respond to threats.
+My work focuses on building secure environments, identifying system vulnerabilities, analyzing network traffic, investigating security events, and documenting actionable security recommendations.
 
-My portfolio includes individual projects, academic exercises, and collaborative labs involving virtual infrastructure, firewalls, intrusion detection, vulnerability scanning, and security analysis.
+I have developed technical experience with firewall administration, intrusion detection systems, penetration testing tools, vulnerability scanners, SIEM platforms, Windows Server, and Linux environments.
 
-- 🔍 **Security Assessment:** Nmap, Nessus, service enumeration, vulnerability research
-- 🛡️ **Network Defense:** OPNsense, pfSense, Suricata, Snort, Wireshark
-- 🚨 **Security Operations:** SIEM investigation, Windows Event Logs, Linux authentication logs
-- 💻 **Systems & Infrastructure:** Windows Server, Active Directory, Linux, virtualization
-- 🎯 **Career Interests:** SOC Analyst, Cybersecurity Analyst, Network Security, Vulnerability Management
+**Areas of Interest:** Security Operations (SOC), Digital Forensics & Incident Response (DFIR), Network Security, Vulnerability Management, and Threat Detection.
 
----
+**Certification:** ISC2 Certified in Cybersecurity (CC)
 
-## 🧰 Tools & Technologies
+**Professional Experience:** Risk Assurance Internship — PwC Jamaica
 
-### 🛡️ Network Security & Firewalls
-
-![OPNsense](https://img.shields.io/badge/OPNsense-Firewall-D94F27?style=for-the-badge)
-![pfSense](https://img.shields.io/badge/pfSense-Firewall-212121?style=for-the-badge)
-![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-EF6C00?style=for-the-badge)
-![Snort](https://img.shields.io/badge/Snort-IDS-CC1F2F?style=for-the-badge)
-![Squid](https://img.shields.io/badge/Squid-Proxy-275D8C?style=for-the-badge)
-
-### 🔎 Vulnerability Assessment & Penetration Testing
-
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability_Assessment-00A5B5?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-Security_Testing-245A81?style=for-the-badge)
-
-### 🚨 SIEM & Endpoint Security
-
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-1E88E5?style=for-the-badge)
-![Action1](https://img.shields.io/badge/Action1-Patch_Management-5D55B4?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory-Identity-0078D4?style=for-the-badge)
-
-### 💻 Operating Systems & Virtualization
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+> This portfolio contains academic projects, collaborative exercises, and independent cybersecurity labs. Project documentation distinguishes demonstrated findings from proposed security improvements.
 
 ---
 
-## 🚀 Cybersecurity Project Portfolio
+## Technical Skills & Tools
+### SIEM & Detection
 
-My projects demonstrate practical experience gained through cybersecurity labs, coursework, and virtual environments.
+[![Wazuh](https://img.shields.io/badge/WAZUH-0066A1?style=for-the-badge&logoColor=white)](https://wazuh.com/)
+[![Suricata](https://img.shields.io/badge/SURICATA-F3322C?style=for-the-badge&logoColor=white)](https://suricata.io/)
+[![Snort](https://img.shields.io/badge/SNORT-EA3323?style=for-the-badge&logoColor=white)](https://www.snort.org/)
+[![Wireshark](https://img.shields.io/badge/WIRESHARK-087DAF?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
-Individual project repositories with screenshots, technical documentation, findings, and remediation recommendations are being prepared.
+### Endpoint & Network
 
-### 🔴 Vulnerability Assessment & Ethical Hacking
+[![Nmap](https://img.shields.io/badge/NMAP-327FB5?style=for-the-badge&logoColor=white)](https://nmap.org/)
+[![PowerShell](https://img.shields.io/badge/POWERSHELL-478BF5?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Python](https://img.shields.io/badge/PYTHON-377DB4?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/LINUX-FFC400?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logoColor=white)](https://www.microsoft.com/windows)
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Nessus Vulnerability Assessment** | Performed authenticated and unauthenticated vulnerability scans against Metasploitable 2. | Nessus, Metasploitable 2, SSH |
-| **Linux Penetration Testing Lab** | Conducted network reconnaissance, service enumeration, and controlled exploitation of vulnerable Linux services. | Kali Linux, Nmap, Metasploit |
-| **Wireshark Network Traffic Analysis** | Investigated unencrypted network communications and clear-text credential exposure in a controlled lab. | Wireshark, TCP/IP, Telnet |
-| **Nmap Network Enumeration** | Conducted host discovery, port scanning, service detection, and OS fingerprinting attempts. | Nmap, Kali Linux |
-| **Windows Service Enumeration** | Investigated Windows services, listening ports, running processes, and potential vulnerabilities. | PowerShell, Netstat, NVD |
+### Vulnerability Assessment & Penetration Testing
 
-### 🔵 Network Security & Infrastructure
+[![Nessus](https://img.shields.io/badge/NESSUS-00A5B5?style=for-the-badge&logoColor=white)](https://www.tenable.com/products/nessus)
+[![Metasploit](https://img.shields.io/badge/METASPLOIT-1769AA?style=for-the-badge&logoColor=white)](https://www.metasploit.com/)
+[![Kali Linux](https://img.shields.io/badge/KALI_LINUX-367BF0?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Cybersecurity Virtual Lab Infrastructure** | Built virtual machines and network configurations for cybersecurity testing. | VirtualBox, Vagrant, Kali Linux, Ubuntu |
-| **OPNsense Firewall Security Lab** | Worked on firewall configuration, intrusion detection/prevention, and web-filtering concepts in a virtualized environment. | OPNsense, Suricata, Squid, VMware |
-| **Snort Intrusion Detection System** | Practiced network intrusion detection and security monitoring. | Snort, Linux |
-| **pfSense Firewall Configuration** | Explored firewall rules, network controls, and virtual network security. | pfSense, VirtualBox |
-| **macOS Ventura Virtualization** | Collaborated on a macOS virtual machine installation and configuration exercise. | macOS, VirtualBox, VBoxManage |
+### Firewall & Network Defense
 
-### 🟢 Security Operations & System Administration
+[![OPNsense](https://img.shields.io/badge/OPNSENSE-E95420?style=for-the-badge&logoColor=white)](https://opnsense.org/)
+[![pfSense](https://img.shields.io/badge/PFSENSE-003B73?style=for-the-badge&logoColor=white)](https://www.pfsense.org/)
+[![Squid Proxy](https://img.shields.io/badge/SQUID_PROXY-0077B6?style=for-the-badge&logoColor=white)](https://www.squid-cache.org/)
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **SIEM Security Incident Investigation** | Analyzed simulated Windows and Linux security events and reconstructed an incident timeline. | Windows Event Logs, Linux Logs |
-| **Wazuh SIEM Monitoring Lab** | Practiced endpoint security monitoring and event visibility. | Wazuh, Linux |
-| **Windows Server & Active Directory** | Explored Windows Server administration and directory services. | Windows Server, Active Directory |
-| **Endpoint Patch Management** | Explored endpoint management and software patching workflows. | Action1 |
+### Infrastructure & Virtualization
 
-📂 **[Explore My GitHub Repositories](https://github.com/KerberosAC?tab=repositories)**
+[![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-0078D4?style=for-the-badge&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+[![Active Directory](https://img.shields.io/badge/ACTIVE_DIRECTORY-0067B8?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/)
+[![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-1769AA?style=for-the-badge&logoColor=white)](https://www.virtualbox.org/)
+[![VMware](https://img.shields.io/badge/VMWARE-0077C8?style=for-the-badge&logoColor=white)](https://www.vmware.com/)
+[![Vagrant](https://img.shields.io/badge/VAGRANT-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant)
+[![Action1](https://img.shields.io/badge/ACTION1-0066CC?style=for-the-badge&logoColor=white)](https://www.action1.com/)
 
----
+### Security Frameworks
 
-## 📌 Featured Project: Nessus Vulnerability Assessment
-
-### 🎯 Project Objective
-
-Perform vulnerability assessments against a deliberately vulnerable Metasploitable 2 Linux virtual machine using Tenable Nessus Essentials.
-
-### 🛠️ Lab Environment
-
-- **Vulnerability Scanner:** Tenable Nessus Essentials
-- **Target Machine:** Metasploitable 2
-- **Target IP:** 192.168.0.156
-- **Operating Environment:** Windows 11 and a Linux virtual machine
-- **Scan Types:** Basic Network Scan and SSH-credentialed assessment
-
-### 📊 Assessment Results
-
-| Scan Type | Findings Displayed |
-|-----------|-------------------|
-| Unauthenticated Scan | 20 |
-| SSH-Credentialed Scan | 54 |
-
-### 🔍 Key Vulnerabilities Identified
-
-| Vulnerability | Severity | CVSS |
-|---------------|----------|------|
-| Samba Badlock | High | 7.5 |
-| NFS Shares World Readable | High | 7.5 |
-| ISC BIND Service Downgrade / Reflected DoS | High | 8.6 |
-
-The credentialed assessment also identified critical-severity findings requiring further investigation and remediation prioritization.
-
-### 🛡️ Remediation Recommendations
-
-- Update vulnerable Samba services.
-- Restrict NFS exports to authorized systems.
-- Patch affected ISC BIND installations.
-- Disable unnecessary network services.
-- Perform regular authenticated vulnerability assessments.
-- Validate findings and prioritize remediation based on risk.
-
-### 💡 Key Learning Outcome
-
-This exercise demonstrated how authenticated vulnerability scanning can reveal additional security weaknesses and provide greater visibility into system configuration and patching issues.
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-D00036?style=for-the-badge&logoColor=white)](https://attack.mitre.org/)
+[![NIST](https://img.shields.io/badge/NIST-005EA2?style=for-the-badge&logoColor=white)](https://www.nist.gov/cyberframework)
+[![CIS Controls](https://img.shields.io/badge/CIS_CONTROLS-008C95?style=for-the-badge&logoColor=white)](https://www.cisecurity.org/controls)
 
 ---
 
-## 🔐 Featured Project: OPNsense Network Security
+## Featured Cybersecurity Projects
 
-### Project Overview
+Selected technical projects covering vulnerability assessment, network security, penetration testing, security operations, and infrastructure administration.
 
-Worked on a virtualized network security environment involving OPNsense, Kali Linux, and a Windows test machine.
+Each project will include its methodology, environment, technical evidence, findings, and lessons learned.
 
-### Technologies
+### 01 — Vulnerability Assessment & Penetration Testing
 
-- OPNsense Firewall
-- Suricata IDS/IPS
-- Squid Proxy
-- Kali Linux
-- VMware
-- Windows
+| Project | Technical Focus | Repository |
+|:--------|:----------------|:-----------|
+| **Nessus Vulnerability Assessment** | Authenticated vs. unauthenticated scanning, CVSS analysis, vulnerability prioritization, remediation | [View Project](PROJECT_LINK_HERE) |
+| **Linux Penetration Testing** | Nmap reconnaissance, vulnerable service exploitation, controlled penetration testing | [View Project](PROJECT_LINK_HERE) |
+| **Network Traffic & Credential Analysis** | Wireshark packet analysis, Telnet traffic inspection, clear-text credential exposure | [View Project](PROJECT_LINK_HERE) |
+| **Nmap Network Reconnaissance** | Host discovery, TCP port scanning, service/version detection, OS fingerprinting | [View Project](PROJECT_LINK_HERE) |
+| **Windows Service Enumeration** | PowerShell, Netstat, PID mapping, service analysis, CVE research | [View Project](PROJECT_LINK_HERE) |
 
-### Learning Objectives
+### 02 — Network Security & Defense
 
-- Understand firewall configuration and network access controls.
-- Explore intrusion detection and prevention.
-- Investigate web filtering and proxy configurations.
-- Troubleshoot virtual network connectivity.
-- Develop practical network-defense skills.
+| Project | Technical Focus | Repository |
+|:--------|:----------------|:-----------|
+| **OPNsense Firewall & IDS/IPS Deployment** | Firewall configuration, Suricata detection, Squid proxy, network traffic control | [View Project](PROJECT_LINK_HERE) |
+| **Snort Network Intrusion Detection** | IDS configuration, rule management, traffic monitoring, alert analysis | [View Project](PROJECT_LINK_HERE) |
+| **pfSense Firewall Security Lab** | Firewall deployment, rule configuration, network segmentation concepts | [View Project](PROJECT_LINK_HERE) |
 
----
+### 03 — Security Operations & Incident Investigation
 
-## 🕵️ Featured Project: SOC Incident Investigation
+| Project | Technical Focus | Repository |
+|:--------|:----------------|:-----------|
+| **SIEM Incident Investigation** | Windows/Linux log analysis, authentication attacks, persistence, incident timeline reconstruction | [View Project](PROJECT_LINK_HERE) |
+| **Wazuh Security Monitoring Lab** | SIEM deployment, endpoint telemetry, security event monitoring | [View Project](PROJECT_LINK_HERE) |
+| **Endpoint Patch Management** | Endpoint administration, software updates, patch management workflows | [View Project](PROJECT_LINK_HERE) |
 
-### Project Overview
+### 04 — Infrastructure & Systems Administration
 
-Analyzed a simulated cybersecurity incident involving Windows and Linux systems.
-
-### Investigation Areas
-
-- Failed and successful login attempts
-- Suspicious process execution
-- Brute-force attack indicators
-- Windows and Linux log correlation
-- Persistence mechanisms
-- Potential data exfiltration
-- Incident timeline reconstruction
-
-### Windows Security Event IDs
-
-| Event ID | Description |
-|----------|-------------|
-| 4625 | Failed logon |
-| 4624 | Successful logon |
-| 4688 | Process creation |
-| 4672 | Special privileges assigned |
-| 4698 | Scheduled task creation |
-| 1102 | Security audit log cleared |
-
-### Key Learning Outcome
-
-Developed practical experience interpreting security events, identifying suspicious activity, and documenting incident findings in a structured report.
+| Project | Technical Focus | Repository |
+|:--------|:----------------|:-----------|
+| **Cybersecurity Virtual Lab Infrastructure** | VirtualBox, Vagrant, Kali Linux, vulnerable machines, virtual networking | [View Project](PROJECT_LINK_HERE) |
+| **Windows Server & Active Directory** | Domain controller deployment, DNS, users, groups, domain administration | [View Project](PROJECT_LINK_HERE) |
+| **macOS Ventura Virtualization** | VirtualBox deployment, virtual hardware configuration, macOS installation | [View Project](PROJECT_LINK_HERE) |
 
 ---
 
-## 🎯 Current Learning Goals
+## Selected Technical Findings
 
-- Security Operations Center (SOC) analysis
-- Incident Detection and Response
-- Vulnerability Management
-- Network Traffic Analysis
-- SIEM Monitoring
-- Threat Hunting
-- Windows and Linux Security
-- Network Defense and Firewall Administration
+The following findings are drawn from documented laboratory assessments.
+
+| Assessment | Evidence / Result |
+|:-----------|:------------------|
+| **Nessus — Unauthenticated Scan** | 20 findings displayed against a deliberately vulnerable Linux target |
+| **Nessus — Credentialed Scan** | 54 findings displayed following SSH credential configuration |
+| **Samba Vulnerability Assessment** | Identified Samba Badlock, rated High (CVSS 7.5) |
+| **NFS Security Assessment** | Identified world-readable NFS shares, rated High (CVSS 7.5) |
+| **DNS Security Assessment** | Identified ISC BIND service downgrade/reflected DoS finding, rated High (CVSS 8.6) |
+| **Penetration Testing Lab** | Documented exploitation of vulnerable FTP, Samba, and distcc services |
+| **SIEM Investigation Exercise** | Analyzed suspicious Windows authentication events and Linux SSH activity |
+
+> Findings are from controlled labs and deliberately vulnerable systems. They are not production security assessments.
 
 ---
 
-## 📊 GitHub Statistics
+## Certifications & Professional Development
+
+| Certification | Status |
+|:--------------|:-------|
+| **ISC2 Certified in Cybersecurity (CC)** | Achieved |
+| **CompTIA Security+** | Learning objective |
+
+### Current Focus
+
+- Security Operations and SOC investigation workflows
+- Network traffic analysis and threat detection
+- Vulnerability identification and remediation
+- Digital forensics and incident response
+- Linux and Windows security administration
+- Security monitoring and detection engineering fundamentals
+
+---
+
+## Career Objective
+
+To apply my cybersecurity education, technical laboratory experience, and risk assurance background in a security-focused role where I can contribute to vulnerability management, security monitoring, incident investigation, and infrastructure protection.
+
+I am particularly interested in opportunities involving **Security Operations, Cybersecurity Analysis, Network Security, and Digital Forensics & Incident Response**.
+
+---
+
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KerberosAC&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerberosAC&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with cybersecurity professionals, learning from experienced analysts, and sharing practical cybersecurity projects.
-
-<div align="center">
+**Open to professional networking, cybersecurity collaboration, and technical knowledge sharing.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Cox-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandercox25/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
-
-</div>
-
----
-
-<div align="center">
-
-### 🛡️ Learn. Build. Secure. Repeat.
-
-*Documenting my cybersecurity journey one project at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:071426&height=110&section=footer" width="100%" />
+[![GitHub](https://img.shields.io/badge/GitHub-KerberosAC-003B73?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerberosAC)
 
 </div>
