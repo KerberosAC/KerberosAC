@@ -22,12 +22,14 @@ Currently, I am focused on defensive security operations (SOC), network administ
 
 ### Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/en-us/certifications/security/)
-[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A88F?style=for-the-badge&logoColor=white)](https://www.isc2.org/certifications/cc)
+Certifications:
+
+CompTIA Security+ (SY0-701)
+ISC2 Certified in Cybersecurity (CC)
 
 ### Education
 
-**Bachelor of Science (BSc) — Cyber Security and Digital Forensics**  
+**Bachelor of Science (BSc) - Cyber Security and Digital Forensics**  
 Caribbean Maritime University · **First Class Honours**
 
 ### Professional Experience
