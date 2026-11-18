@@ -1,7 +1,7 @@
 
 ## Alexander Cox
 
-**Cybersecurity Graduate | Security Operations | Network Security**
+#### Cybersecurity Graduate | Security Operations | Network Security 
 
 First Class Honours in Cyber Security & Digital Forensics
 
@@ -29,7 +29,7 @@ Caribbean Maritime University · **First Class Honours**
 
 ### Professional Experience
 
-**Risk Assurance Intern — PwC Jamaica**
+**Risk Assurance Intern - PwC Jamaica**
 
 ---
 
