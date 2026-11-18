@@ -1,5 +1,5 @@
 
-# Alexander Cox
+## Alexander Cox
 
 **Cybersecurity Graduate | Security Operations | Network Security**
 
@@ -9,7 +9,7 @@ First Class Honours in Cyber Security & Digital Forensics
 
 ---
 
-### 👋 About Me
+#### 👋 About Me
 
 Hi, I'm Alexander, a cybersecurity professional and **B.Sc. Cyber Security & Digital Forensics (First Class Honors)** graduate focused on network defense, threat detection, and enterprise infrastructure security. 
 
@@ -17,14 +17,12 @@ I specialize in translating security theory into practical, hands-on defense. My
 
 Currently, I am focused on defensive security operations (SOC), network administration, and continuous lab engineering, documenting my technical builds and security workflows right here.
 
-### Certifications
-
-Certifications:
+#### Certifications
 
 CompTIA Security+ (SY0-701),
 ISC2 Certified in Cybersecurity (CC)
 
-### Education
+#### Education
 
 **Bachelor of Science (BSc) - Cyber Security and Digital Forensics**  
 Caribbean Maritime University · **First Class Honours**
@@ -35,16 +33,16 @@ Caribbean Maritime University · **First Class Honours**
 
 ---
 
-## Core Stack
+### Core Stack
 
-### SIEM & Detection
+#### SIEM & Detection
 
 [![Wazuh](https://img.shields.io/badge/WAZUH-0066A1?style=for-the-badge&logoColor=white)](https://wazuh.com/)
 [![Suricata](https://img.shields.io/badge/SURICATA-F3322C?style=for-the-badge&logoColor=white)](https://suricata.io/)
 [![Snort](https://img.shields.io/badge/SNORT-EA3323?style=for-the-badge&logoColor=white)](https://www.snort.org/)
 [![Wireshark](https://img.shields.io/badge/WIRESHARK-087DAF?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
-### Endpoint & Network
+#### Endpoint & Network
 
 [![Nmap](https://img.shields.io/badge/NMAP-327FB5?style=for-the-badge&logoColor=white)](https://nmap.org/)
 [![PowerShell](https://img.shields.io/badge/POWERSHELL-478BF5?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
@@ -52,19 +50,19 @@ Caribbean Maritime University · **First Class Honours**
 [![Linux](https://img.shields.io/badge/LINUX-FFC400?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logoColor=white)](https://www.microsoft.com/windows)
 
-### Vulnerability Assessment & Penetration Testing
+#### Vulnerability Assessment & Penetration Testing
 
 [![Nessus](https://img.shields.io/badge/NESSUS-00A5B5?style=for-the-badge&logoColor=white)](https://www.tenable.com/products/nessus)
 [![Metasploit](https://img.shields.io/badge/METASPLOIT-1769AA?style=for-the-badge&logoColor=white)](https://www.metasploit.com/)
 [![Kali Linux](https://img.shields.io/badge/KALI_LINUX-367BF0?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 
-### Firewall & Network Defense
+#### Firewall & Network Defense
 
 [![OPNsense](https://img.shields.io/badge/OPNSENSE-E95420?style=for-the-badge&logoColor=white)](https://opnsense.org/)
 [![pfSense](https://img.shields.io/badge/PFSENSE-003B73?style=for-the-badge&logoColor=white)](https://www.pfsense.org/)
 [![Squid](https://img.shields.io/badge/SQUID_PROXY-0077B6?style=for-the-badge&logoColor=white)](https://www.squid-cache.org/)
 
-### Infrastructure & Virtualization
+#### Infrastructure & Virtualization
 
 [![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-0078D4?style=for-the-badge&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 [![Active Directory](https://img.shields.io/badge/ACTIVE_DIRECTORY-0067B8?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/)
@@ -74,12 +72,12 @@ Caribbean Maritime University · **First Class Honours**
 [![Vagrant](https://img.shields.io/badge/VAGRANT-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant)
 [![Action1](https://img.shields.io/badge/ACTION1-0066CC?style=for-the-badge&logoColor=white)](https://www.action1.com/)
 
-### Security Frameworks
+#### Security Frameworks
 [![NIST](https://img.shields.io/badge/NIST-005EA2?style=for-the-badge&logoColor=white)](https://www.nist.gov/cyberframework)
 
 ---
 
-## Featured Projects
+### Featured Projects
 
 Selected cybersecurity projects covering vulnerability assessment, network defense, incident investigation, and infrastructure security.
 
