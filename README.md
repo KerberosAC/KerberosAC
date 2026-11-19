@@ -91,7 +91,8 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">Nessus Vulnerability Assessment</a></strong><br>
+
+<strong><a href="https://github.com/KerberosAC/Nessus-Vulnerability-Assessment">Nessus Vulnerability Assessment</a></strong><br>
 <sub>Authenticated and unauthenticated scanning, vulnerability analysis, and remediation prioritization.</sub>
 
 </td>
