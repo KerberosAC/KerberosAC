@@ -103,7 +103,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">OPNsense Firewall & IDS/IPS</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/OPNsense-Firewall-IDS-IPS">OPNsense Firewall & IDS/IPS</a></strong><br>
 <sub>Firewall configuration, Suricata intrusion detection, and Squid proxy integration.</sub>
 
 </td>
