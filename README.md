@@ -139,7 +139,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">Network Traffic Analysis</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/Network-Traffic-Analysis">Network Traffic Analysis</a></strong><br>
 <sub>Packet inspection, protocol analysis, and investigation of clear-text credentials.</sub>
 
 </td>
