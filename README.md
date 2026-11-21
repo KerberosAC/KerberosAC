@@ -167,7 +167,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">pfSense Firewall Lab</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/pfSense-Firewall-Lab">pfSense Firewall Lab</a></strong><br>
 <sub>Firewall configuration, traffic filtering, and network access controls.</sub>
 
 </td>
