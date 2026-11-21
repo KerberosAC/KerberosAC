@@ -54,11 +54,10 @@ Caribbean Maritime University · **First Class Honours**
 <tr>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/NESSUS-0077B6?style=flat-square" />
-<img src="https://img.shields.io/badge/VULNERABILITY_ASSESSMENT-00A5B5?style=flat-square" />
+<img src="https://img.shields.io/badge/NESSUS-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/VULNERABILITY_ASSESSMENT-0284C7?style=flat-square" />
 
 <br>
-
 
 <strong><a href="https://github.com/KerberosAC/Nessus-Vulnerability-Assessment">Nessus Vulnerability Assessment</a></strong><br>
 <sub>Authenticated and unauthenticated scanning, vulnerability analysis, and remediation prioritization.</sub>
@@ -66,8 +65,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/OPNSENSE-E95420?style=flat-square" />
-<img src="https://img.shields.io/badge/NETWORK_DEFENSE-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/OPNSENSE-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/NETWORK_DEFENSE-0284C7?style=flat-square" />
 
 <br>
 
@@ -77,8 +76,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/SIEM-0066A1?style=flat-square" />
-<img src="https://img.shields.io/badge/INCIDENT_INVESTIGATION-00A88F?style=flat-square" />
+<img src="https://img.shields.io/badge/SIEM-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/INCIDENT_INVESTIGATION-0284C7?style=flat-square" />
 
 <br>
 
@@ -91,8 +90,8 @@ Caribbean Maritime University · **First Class Honours**
 <tr>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/KALI_LINUX-367BF0?style=flat-square" />
-<img src="https://img.shields.io/badge/PENETRATION_TESTING-F26727?style=flat-square" />
+<img src="https://img.shields.io/badge/KALI_LINUX-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-0284C7?style=flat-square" />
 
 <br>
 
@@ -102,8 +101,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/WIRESHARK-087DAF?style=flat-square" />
-<img src="https://img.shields.io/badge/TRAFFIC_ANALYSIS-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/WIRESHARK-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/TRAFFIC_ANALYSIS-0284C7?style=flat-square" />
 
 <br>
 
@@ -113,8 +112,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/WAZUH-0066A1?style=flat-square" />
-<img src="https://img.shields.io/badge/SECURITY_MONITORING-00A88F?style=flat-square" />
+<img src="https://img.shields.io/badge/WAZUH-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/SECURITY_MONITORING-0284C7?style=flat-square" />
 
 <br>
 
@@ -127,8 +126,8 @@ Caribbean Maritime University · **First Class Honours**
 <tr>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/VIRTUALBOX-1769AA?style=flat-square" />
-<img src="https://img.shields.io/badge/LAB_INFRASTRUCTURE-0077B6?style=flat-square" />
+<img src="https://img.shields.io/badge/VIRTUALBOX-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/LAB_INFRASTRUCTURE-0284C7?style=flat-square" />
 
 <br>
 
@@ -138,8 +137,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/WINDOWS_SERVER-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-00A5B5?style=flat-square" />
+<img src="https://img.shields.io/badge/WINDOWS_SERVER-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-0284C7?style=flat-square" />
 
 <br>
 
@@ -149,8 +148,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/SNORT-EA3323?style=flat-square" />
-<img src="https://img.shields.io/badge/INTRUSION_DETECTION-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/SNORT-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/INTRUSION_DETECTION-0284C7?style=flat-square" />
 
 <br>
 
@@ -163,8 +162,8 @@ Caribbean Maritime University · **First Class Honours**
 <tr>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/PFSENSE-003B73?style=flat-square" />
-<img src="https://img.shields.io/badge/FIREWALL_SECURITY-0077B6?style=flat-square" />
+<img src="https://img.shields.io/badge/PFSENSE-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/FIREWALL_SECURITY-0284C7?style=flat-square" />
 
 <br>
 
@@ -174,8 +173,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/NMAP-327FB5?style=flat-square" />
-<img src="https://img.shields.io/badge/RECONNAISSANCE-00A88F?style=flat-square" />
+<img src="https://img.shields.io/badge/NMAP-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/RECONNAISSANCE-0284C7?style=flat-square" />
 
 <br>
 
@@ -185,8 +184,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/POWERSHELL-478BF5?style=flat-square" />
-<img src="https://img.shields.io/badge/SYSTEM_ENUMERATION-0077B6?style=flat-square" />
+<img src="https://img.shields.io/badge/POWERSHELL-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/SYSTEM_ENUMERATION-0284C7?style=flat-square" />
 
 <br>
 
@@ -199,8 +198,8 @@ Caribbean Maritime University · **First Class Honours**
 <tr>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/ACTION1-0066CC?style=flat-square" />
-<img src="https://img.shields.io/badge/PATCH_MANAGEMENT-00A88F?style=flat-square" />
+<img src="https://img.shields.io/badge/ACTION1-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/PATCH_MANAGEMENT-0284C7?style=flat-square" />
 
 <br>
 
@@ -210,8 +209,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/MACOS-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/VIRTUALIZATION-1769AA?style=flat-square" />
+<img src="https://img.shields.io/badge/MACOS-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/VIRTUALIZATION-0284C7?style=flat-square" />
 
 <br>
 
@@ -221,8 +220,8 @@ Caribbean Maritime University · **First Class Honours**
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/GITHUB-005A9C?style=flat-square" />
-<img src="https://img.shields.io/badge/PROJECT_PORTFOLIO-00A88F?style=flat-square" />
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/PROJECT_PORTFOLIO-0284C7?style=flat-square" />
 
 <br>
 
