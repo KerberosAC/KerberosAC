@@ -35,46 +35,14 @@ Caribbean Maritime University · **First Class Honours**
 
 ### Core Stack
 
-#### SIEM & Detection
-
-[![Wazuh](https://img.shields.io/badge/WAZUH-0066A1?style=flat-square&logoColor=white)](https://wazuh.com/)
-[![Suricata](https://img.shields.io/badge/SURICATA-F3322C?style=flat-square&logoColor=white)](https://suricata.io/)
-[![Snort](https://img.shields.io/badge/SNORT-EA3323?style=flat-square&logoColor=white)](https://www.snort.org/)
-[![Wireshark](https://img.shields.io/badge/WIRESHARK-087DAF?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-
-#### Endpoint & Network
-
-[![Nmap](https://img.shields.io/badge/NMAP-327FB5?style=flat-square&logoColor=white)](https://nmap.org/)
-[![PowerShell](https://img.shields.io/badge/POWERSHELL-478BF5?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-[![Python](https://img.shields.io/badge/PYTHON-377DB4?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/LINUX-FFC400?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=flat-square&logoColor=white)](https://www.microsoft.com/windows)
-
-#### Vulnerability Assessment & Penetration Testing
-
-[![Nessus](https://img.shields.io/badge/NESSUS-00A5B5?style=flat-square&logoColor=white)](https://www.tenable.com/products/nessus)
-[![Metasploit](https://img.shields.io/badge/METASPLOIT-1769AA?style=flat-square&logoColor=white)](https://www.metasploit.com/)
-[![Kali Linux](https://img.shields.io/badge/KALI_LINUX-367BF0?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-
-#### Firewall & Network Defense
-
-[![OPNsense](https://img.shields.io/badge/OPNSENSE-E95420?style=flat-square&logoColor=white)](https://opnsense.org/)
-[![pfSense](https://img.shields.io/badge/PFSENSE-003B73?style=flat-square&logoColor=white)](https://www.pfsense.org/)
-[![Squid](https://img.shields.io/badge/SQUID_PROXY-0077B6?style=flat-square&logoColor=white)](https://www.squid-cache.org/)
-
-#### Infrastructure & Virtualization
-
-[![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-0078D4?style=flat-square&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-[![Active Directory](https://img.shields.io/badge/ACTIVE_DIRECTORY-0067B8?style=flat-square&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/)
-[![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-1769AA?style=flat-square&logoColor=white)](https://www.virtualbox.org/)
-[![VMware](https://img.shields.io/badge/VMWARE-0077C8?style=flat-square&logoColor=white)](https://www.vmware.com/)
-[![Vagrant](https://img.shields.io/badge/VAGRANT-1868F2?style=flat-square&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant)
-[![Action1](https://img.shields.io/badge/ACTION1-0066CC?style=flat-square&logoColor=white)](https://www.action1.com/)
-
-#### Security Frameworks
-
-[![NIST](https://img.shields.io/badge/NIST-005EA2?style=flat-square&logoColor=white)](https://www.nist.gov/cyberframework)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **SIEM & Detection** | [![Wazuh](https://img.shields.io/badge/WAZUH-0066A1?style=flat-square&logoColor=white)](https://wazuh.com/) [![Suricata](https://img.shields.io/badge/SURICATA-F3322C?style=flat-square&logoColor=white)](https://suricata.io/) [![Snort](https://img.shields.io/badge/SNORT-EA3323?style=flat-square&logoColor=white)](https://www.snort.org/) [![Wireshark](https://img.shields.io/badge/WIRESHARK-087DAF?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/) [![Action1](https://img.shields.io/badge/ACTION1-0066CC?style=flat-square&logoColor=white)](https://www.action1.com/)  |
+| **Endpoint & Network** | [![Nmap](https://img.shields.io/badge/NMAP-327FB5?style=flat-square&logoColor=white)](https://nmap.org/) [![PowerShell](https://img.shields.io/badge/POWERSHELL-478BF5?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) [![Python](https://img.shields.io/badge/PYTHON-377DB4?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Linux](https://img.shields.io/badge/LINUX-FFC400?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/) [![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=flat-square&logoColor=white)](https://www.microsoft.com/windows) |
+| **Vulnerability Assessment & Penetration Testing** | [![Nessus](https://img.shields.io/badge/NESSUS-00A5B5?style=flat-square&logoColor=white)](https://www.tenable.com/products/nessus) [![Metasploit](https://img.shields.io/badge/METASPLOIT-1769AA?style=flat-square&logoColor=white)](https://www.metasploit.com/) [![Kali Linux](https://img.shields.io/badge/KALI_LINUX-367BF0?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/) |
+| **Firewall & Network Defense** | [![OPNsense](https://img.shields.io/badge/OPNSENSE-E95420?style=flat-square&logoColor=white)](https://opnsense.org/) [![pfSense](https://img.shields.io/badge/PFSENSE-003B73?style=flat-square&logoColor=white)](https://www.pfsense.org/) [![Squid Proxy](https://img.shields.io/badge/SQUID_PROXY-0077B6?style=flat-square&logoColor=white)](https://www.squid-cache.org/) |
+| **Infrastructure & Virtualization** | [![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-0078D4?style=flat-square&logoColor=white)](https://www.microsoft.com/en-us/windows-server) [![Active Directory](https://img.shields.io/badge/ACTIVE_DIRECTORY-0067B8?style=flat-square&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/) [![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-1769AA?style=flat-square&logoColor=white)](https://www.virtualbox.org/) [![VMware](https://img.shields.io/badge/VMWARE-0077C8?style=flat-square&logoColor=white)](https://www.vmware.com/) [![Vagrant](https://img.shields.io/badge/VAGRANT-1868F2?style=flat-square&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant) |
+| **Security Frameworks** | [![NIST](https://img.shields.io/badge/NIST-005EA2?style=flat-square&logoColor=white)](https://www.nist.gov/cyberframework) |
 
 ---
 
