@@ -150,7 +150,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">Wazuh Security Monitoring</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/Wazuh-Security-Monitoring">Wazuh Security Monitoring</a></strong><br>
 <sub>Endpoint visibility, centralized security monitoring, and event analysis.</sub>
 
 </td>
