@@ -175,7 +175,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">Windows Server & Active Directory</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/Windows-Server-Active-Directory">Windows Server & Active Directory</a></strong><br>
 <sub>Domain controller deployment, DNS configuration, and identity administration.</sub>
 
 </td>
