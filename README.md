@@ -186,7 +186,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">Snort Intrusion Detection</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/Snort-Intrusion-Detection">Snort Intrusion Detection</a></strong><br>
 <sub>Network intrusion detection, rule configuration, and security alert analysis.</sub>
 
 </td>
