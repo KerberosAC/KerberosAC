@@ -164,7 +164,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">Cybersecurity Virtual Lab</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/Cybersecurity-Virtual-Lab">Cybersecurity Virtual Lab</a></strong><br>
 <sub>Virtual machine deployment, network configuration, and isolated testing environments.</sub>
 
 </td>
