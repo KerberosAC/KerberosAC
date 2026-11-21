@@ -203,7 +203,7 @@ Caribbean Maritime University · **First Class Honours**
 
 <br>
 
-<strong><a href="PROJECT_LINK_HERE">Endpoint Patch Management</a></strong><br>
+<strong><a href="https://github.com/KerberosAC/Endpoint-Patch-Management">Endpoint Patch Management</a></strong><br>
 <sub>Endpoint administration, patching workflows, and software update management.</sub>
 
 </td>
